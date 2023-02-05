@@ -1,1 +1,8 @@
 /* Copy and paste your CSS from CodePen into here */
+
+#image {
+    max-width: 100%;
+  }
+  img {
+    display: block;
+  }
